@@ -1,4 +1,4 @@
-<h1>Git Tutorial</h1>
+<h1>Part 1 : Git Tutorial</h1>
 
 <h3>1. Install and Set Up Git</h3>
 
@@ -39,7 +39,7 @@ git push origin main
 git pull origin main
 
 
-<h1>VS Code Tutorial</h1>
+<h1>Part 2 : VS Code Tutorial</h1>
 <h3>Open a Git Repository in VS Code</h3>
 <ul><li>Open VS Code.</li>
 <li>Install VS Code </li>
@@ -72,7 +72,7 @@ git pull origin main
 
 
 <br />
-<h1>Glossary</h1>
+<h1> Part 3 : Glossary</h1>
 
 <ul><li> <b>Branch</b> - A parallel version of a repository that allows developers to work on new features or fixes without affecting the main codebase.
 </li>
